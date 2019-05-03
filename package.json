@@ -45,7 +45,7 @@
     "riot.js"
   ],
   "dependencies": {
-    "riot-cli": "^2.6.1",
+    "riot-cli": "^4.1.0",
     "riot-compiler": "^2.5.3",
     "riot-observable": "^2.5.0",
     "riot-route": "^2.5.0",
